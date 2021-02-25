@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tawk.to Test App</string>
+    <string name="users">Users</string>
+    <string name="name">Name:</string>
+    <string name="company">Company:</string>
+    <string name="blog">Blog:</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="no_internet_msg">No internet,showing offline data. Pull down from top of screen to get new data</string>
+    <string name="got_it">Got it</string>
+    <string name="note_saved">Note Saved</string>
+    <string name="icon_to_go_back_to_previous_screen">Icon to go back to previous screen</string>
+    <string name="notes_icon">Notes icon</string>
+    <string name="followers"><![CDATA[Followers: %d]]></string>
+    <string name="following"><![CDATA[Following: %d]]></string>
+</resources>

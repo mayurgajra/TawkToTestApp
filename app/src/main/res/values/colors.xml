@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#757474</color>
+    <color name="amber">#FBC02D</color>
+
+    //Theme specific colors
+    <color name="divider_color">#111111</color>
+    <color name="note_box_et_backgroud_selector">@drawable/note_box_et_backgroud_selector</color>
+    <color name="text_color">#000000</color>
+    <color name="btn_text_color">#FFFFFF</color>
+    <color name="search_hint_color">#222222</color>
+    <color name="search_bg_color">#FFFFFF</color>
+    <color name="icon_color">#000000</color>
+    <color name="btn_color">#000000</color>
+</resources>

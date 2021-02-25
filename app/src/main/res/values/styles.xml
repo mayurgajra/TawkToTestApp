@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearance.App.CircleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+    <style name="ProfileDetailTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textSize">@dimen/profile_detail_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ProfileDetailFollowTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

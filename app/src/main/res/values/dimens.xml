@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_username_text_size">20sp</dimen>
+    <dimen name="user_list_image_size">60dp</dimen>
+    <dimen name="cursor_width">1dp</dimen>
+    <dimen name="profile_header_username_text_size_">18sp</dimen>
+    <dimen name="profile_detail_text_size">16sp</dimen>
+    <dimen name="profile_detail_image_size">200dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="btn_save_text_size">20sp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="item_user_id_text_size">12sp</dimen>
+    <item name="divider_height" type="dimen">0.5dp</item>
+</resources>
